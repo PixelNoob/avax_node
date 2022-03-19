@@ -26,3 +26,7 @@ Get your node-id
 
 $ {"jsonrpc":"2.0","result":{"nodeID":"NodeID-5gPX5WhrocwHNEvAPofrrGDtxdo9cPJad"},"id":1}
 ````
+
+If you like the work we do for the Avalanche Community, consider supporting our validator node:
+    
+    NodeID-F3SZA2ZNdRjTBe3GYyRQFDaCXB3DyaZQQ 

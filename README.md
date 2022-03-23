@@ -1,5 +1,8 @@
 # Avalanche Node
+
 Quickly Launch an avalanche node for Validation or RPC. 
+
+Presentation given on "How to Become an Avalanche Validator", in the 2022 Avalanche Summit in Barcelona can be found [here](https://drive.google.com/file/d/1iw8qHNf4B3kcVC_4NwIiJ8DvmMWZbIcU/view?usp=sharing) . 
 
 ## Avalanche node RPC calls
 

@@ -26,9 +26,6 @@ curl -X POST --data '{
     "id"     :1,
     "method" :"info.getNodeID"
 }' -H 'content-type:application/json;' 127.0.0.1:9650/ext/info
-
-
-$ {"jsonrpc":"2.0","result":{"nodeID":"NodeID-5gPX5WhrocwHNEvAPofrrGDtxdo9cPJad"},"id":1}
 ````
 
 If you like the work we do for the Avalanche Community, consider supporting our validator node:

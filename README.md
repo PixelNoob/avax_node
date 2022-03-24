@@ -7,7 +7,8 @@ Presentation given on "How to Become an Avalanche Validator", in the 2022 Avalan
 
 Check if the blockchain is synced
 
-````curl -X POST --data '{
+````
+curl -X POST --data '{
     "jsonrpc":"2.0",
     "id"     :1,
     "method" :"info.isBootstrapped",
@@ -19,7 +20,8 @@ Check if the blockchain is synced
 
 Get your node-id
 
-````curl -X POST --data '{
+````
+curl -X POST --data '{
     "jsonrpc":"2.0",
     "id"     :1,
     "method" :"info.getNodeID"
